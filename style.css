@@ -1,10 +1,4 @@
-* {
-  /* box-sizing: border-box; */
-}
 
-:focus {
- /* TODO */
-}
 
 body {
   background: rgb(2,0,36);
@@ -39,9 +33,7 @@ input {
   padding: 0;
  /* TODO */
 }
-.search-container .suggestions {
-   /* TODO */
-}
+
 
 ul {
   /* border: 1px, black, solid; */
@@ -71,8 +63,4 @@ ul li:hover {
   background: rgba(9,9,121,1);
   color: rgba(255, 255, 255, 0.949);
   /* TODO */
-}
-
-input {
-   /* TODO */
 }
